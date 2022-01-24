@@ -1,4 +1,4 @@
 # Hamoye_Stage_A_Quiz_Code
-This repo contains Hamoye Stage A Quiz code Data Science/Competition 2022 
-The dataset is provided by the Food and Agriculture Organization of the United Nations and is made available in .csv format on the link below:
-FoodBalanceSheets_E_Africa_NOFLAG.csv
+This repo contains my solution from FAO United Nation dataset used in Hamoye Stage A Quiz Data Science/Competition 2022 
+Below you can find the link to the dataset:
+
